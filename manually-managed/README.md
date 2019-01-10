@@ -34,3 +34,9 @@ TBD
 
 
 [-db]: https://github.com/edgi-govdata-archiving/web-monitoring-db
+
+## Metrics Server
+
+We use Elasticserach and its Kibana front-end for metrics collection and
+visualization. See the metrics-server directory in this repository for
+provisioning and configuration details.
